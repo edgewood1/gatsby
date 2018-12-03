@@ -1,0 +1,27 @@
+#outer {
+  background: gray;
+  margin-bottom: 1.45rem;
+}
+
+#inner {
+  margin: 1% 5%;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem;
+}
+
+h1 {
+  margin: 0px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+#left {
+  color: white;
+  text-decoration: none;
+}
+
+.nav {
+  text-decoration: none;
+  border-left: 2px solid black;
+  text-align: center;
+}
